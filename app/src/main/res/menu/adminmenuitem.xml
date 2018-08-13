@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/GridInit"
+        android:title="@string/grid_initial_configuration"/>
+    <item
+        android:id="@+id/Sync"
+        android:title="@string/synchronization"/>
+    <item
+        android:id="@+id/Admin"
+        android:title="@string/administrator_privileges"/>
+</menu>
+
